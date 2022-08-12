@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tesuytez/static/css/main.4332cebc.css",
+    "main.js": "/tesuytez/static/js/main.be9cbe20.js",
+    "static/media/st-logo.svg": "/tesuytez/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
+    "static/media/lightOnBlue.svg": "/tesuytez/static/media/lightOnBlue.e4933a8ad55d6eebfa0310c67cde2082.svg",
+    "static/media/lightOnPink.svg": "/tesuytez/static/media/lightOnPink.7f971faac8402be7ecbb1330e81342fb.svg",
+    "static/media/iconInfo.svg": "/tesuytez/static/media/iconInfo.66f7ed72db618df4ba47d59edb7c2ece.svg",
+    "static/media/iconInfoPink.svg": "/tesuytez/static/media/iconInfoPink.49d9aa3d6fa6dd9e80201e48b7b701bd.svg",
+    "index.html": "/tesuytez/index.html",
+    "static/media/lightOffBlue.svg": "/tesuytez/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
+    "static/media/lightOffPink.svg": "/tesuytez/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
+    "main.4332cebc.css.map": "/tesuytez/static/css/main.4332cebc.css.map",
+    "main.be9cbe20.js.map": "/tesuytez/static/js/main.be9cbe20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4332cebc.css",
+    "static/js/main.be9cbe20.js"
+  ]
+}
